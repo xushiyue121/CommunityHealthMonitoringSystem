@@ -63,7 +63,7 @@ export default class CHMSIndexShow extends React.Component {
                         <div style={{position:"relative",height:135,margin:'auto'}}>
 
                             <div style={{position:"absolute",left:"10px",top:"10px"}}>
-                                <input className="knob indexKnobOuter" value="80" readOnly/>
+                                <input className="knob indexKnobOuter" value="85" readOnly/>
                             </div>
                             <div style={{position:"absolute",left:"30px",top:"30px"}}>
                                 <input className="knob indexKnobInner" value="100" readOnly/>
