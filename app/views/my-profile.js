@@ -6,6 +6,7 @@ import {CHMSProfileSportList} from '../components/ranking-lists';
 export default class CHMSMyProfileView extends React.Component {
 
     constructor(props) {
+        //ewww
         super(props);
     }
 
